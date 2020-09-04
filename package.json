@@ -14,7 +14,7 @@
     "handlebars": "4.0.0",
     "jquery-ui": "1.10.4",
     "jsonwebtoken": "4.2.1",
-    "react": "0.5.0",
+    "react": "16.13.1",
     "react-svg": "1.0.0",
     "sequelize": "2.0.0"
   }
